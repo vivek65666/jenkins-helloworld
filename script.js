@@ -1,1 +1,3 @@
-console.log("Jenkins CI/CD Working");
+console.log("Jenkins CI/CD Working Successfully 🚀");
+
+alert("Website deployed using Jenkins CI/CD 🚀");
