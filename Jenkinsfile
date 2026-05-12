@@ -17,7 +17,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-                bat 'xcopy E Y  Cdeploy'
+                bat 'xcopy /E /Y * C:\\deploy\\'
             }
         }
 
